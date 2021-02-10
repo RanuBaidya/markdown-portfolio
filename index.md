@@ -1,6 +1,0 @@
-- beans
-  - pinto
-  - black
-- eggs
-- rice
-- fruit
