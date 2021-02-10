@@ -1,7 +1,6 @@
 # my list
-
-*beans
-  *pinto
-  *black
-*eggs
-*rice
+* beans
+  * pinto
+  * black
+* eggs
+* rice
