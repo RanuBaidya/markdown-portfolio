@@ -1,4 +1,3 @@
-# my list
 * beans
   * pinto
   * black
